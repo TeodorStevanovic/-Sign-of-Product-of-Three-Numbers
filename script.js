@@ -65,7 +65,7 @@
 // for (let i = 0; i < arrLength; i++){
 
 //     let userInput = prompt("Enter the number");
-//     arr.push(userInput);
+//     arr.push(parseInt(userInput));
 
 // }
 
